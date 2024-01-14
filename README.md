@@ -4,8 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 
-(![Modern Digital Circuit Tech Logo](https://github.com/Zaid0/XAI/assets/103749727/9bbdedbc-e143-49c0-b60f-a3458e4f18ee)
-)
+![Modern Digital Circuit Tech Logo](https://github.com/Zaid0/XAI/assets/103749727/9bbdedbc-e143-49c0-b60f-a3458e4f18ee)
+
 
 
 **XAI** is an innovative solution created for the **Generative AI Hackathon 2024** that aims to make generative AI models more interpretable and understandable. Our project focuses on providing an interface to gain insights into the decision-making process of generative models, ultimately enhancing transparency and trust.
