@@ -39,9 +39,9 @@ In the rapidly evolving field of generative AI, understanding how models generat
 
 ## Demo
 
-For a quick demonstration of XAI's capabilities, visit our [online demo](https://xai-demo-link).
+For a quick demonstration of XAI's capabilities, visit our [online demo]([https://xai-demo-link](https://www.canva.com/design/DAF5ySmVy8s/HsZbtYnIQdcYbWM-IdzMUw/view?utm_content=DAF5ySmVy8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)).
 
-![XAI Demo](./assets/xai_demo.gif)
+![XAI Demo](https://www.canva.com/design/DAF5ySmVy8s/HsZbtYnIQdcYbWM-IdzMUw/view?utm_content=DAF5ySmVy8s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Installation
 
@@ -50,4 +50,4 @@ To set up XAI on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/XAI.git
+   git clone https://github.com/jaberjaber23/XAI.git
