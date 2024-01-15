@@ -8,12 +8,13 @@
 
 
 
-**XAI** is an innovative solution created for the **Generative AI Hackathon 2024** that combines two powerful components: a custom educational chatbot powered by a fine-tuned Language Model (LLM) and a dubbing model for enhancing video content accessibility.
+**XAI** is an innovative educational solution created for the **Generative AI Hackathon 2024**. We have developed two powerful AI models: a dubbing model and a fine-tuned Language Model (LLM) to create a custom educational chatbot capable of answering questions based on video content.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [Educational Chatbot](#educational-chatbot)
+- [Dubbing Model](#dubbing-model)
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -23,21 +24,25 @@
 
 ## Introduction
 
-In the rapidly evolving field of generative AI, understanding how models generate content is critical. XAI, or Explainable AI, bridges the gap between complex AI systems and human comprehension. With XAI, you can:
+**Generative AI Explainer**, abbreviated as XAI, is an educational breakthrough. In the realm of online learning, we recognized a persistent challenge - the language barrier. To address this, we present a pioneering solution developed for the **Generative AI Hackathon 2024**.
 
-- Visualize the inner workings of generative models.
-- Interpret and explain model decisions.
-- Improve trust in AI-generated content.
+Our project revolves around two core AI models:
 
-## Features
+### Educational Chatbot
 
-- **Model Explainability**: XAI provides detailed insights into the generative model's decision-making process.
+Imagine an AI companion capable of comprehending and responding to questions derived from video content. Our custom educational chatbot leverages a fine-tuned Language Model (LLM) to make this a reality. Whether it's a complex lecture or an instructional video, our chatbot can provide detailed and informative answers, enhancing the learning experience.
 
-- **Real-time Interpretation**: Get instant explanations for generated content.
+### Dubbing Model
 
-- **User-Friendly Interface**: A user-friendly web interface makes it easy for anyone to use and understand.
+In addition to the chatbot, we introduce an advanced dubbing model. This model can seamlessly extract subtitles from YouTube videos and create perfectly synchronized dubbed versions. This groundbreaking technology ensures that educational content is accessible to individuals regardless of their native language, promoting global inclusivity in education.
 
-- **Customization**: Tailor XAI to your specific generative model and dataset.
+## Educational Chatbot
+
+Our educational chatbot represents the future of interactive learning. Powered by a fine-tuned Language Model (LLM), it excels in understanding natural language queries and delivering precise responses. Whether you're a student seeking clarification or a lifelong learner with language constraints, our chatbot is here to provide invaluable assistance.
+
+## Dubbing Model
+
+The dubbing model is a game-changer for video content accessibility. By extracting subtitles from YouTube videos and generating dubbed versions with impeccable synchronization, it breaks down language barriers. This innovation empowers non-English speakers and individuals with hearing impairments to access educational content with ease.
 
 ## Demo
 
