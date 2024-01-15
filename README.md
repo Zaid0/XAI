@@ -18,7 +18,6 @@
 - [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -36,13 +35,8 @@ Imagine an AI companion capable of comprehending and responding to questions der
 
 In addition to the chatbot, we introduce an advanced dubbing model. This model can seamlessly extract subtitles from YouTube videos and create perfectly synchronized dubbed versions. This groundbreaking technology ensures that educational content is accessible to individuals regardless of their native language, promoting global inclusivity in education.
 
-## Educational Chatbot
 
-Our educational chatbot represents the future of interactive learning. Powered by a fine-tuned Language Model (LLM), it excels in understanding natural language queries and delivering precise responses. Whether you're a student seeking clarification or a lifelong learner with language constraints, our chatbot is here to provide invaluable assistance.
 
-## Dubbing Model
-
-The dubbing model is a game-changer for video content accessibility. By extracting subtitles from YouTube videos and generating dubbed versions with impeccable synchronization, it breaks down language barriers. This innovation empowers non-English speakers and individuals with hearing impairments to access educational content with ease.
 
 ## Demo
 
