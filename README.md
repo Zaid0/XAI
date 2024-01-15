@@ -8,7 +8,7 @@
 
 
 
-**XAI** is an innovative solution created for the **Generative AI Hackathon 2024** that aims to make generative AI models more interpretable and understandable. Our project focuses on providing an interface to gain insights into the decision-making process of generative models, ultimately enhancing transparency and trust.
+**XAI** is an innovative solution created for the **Generative AI Hackathon 2024** that combines two powerful components: a custom educational chatbot powered by a fine-tuned Language Model (LLM) and a dubbing model for enhancing video content accessibility.
 
 ## Table of Contents
 
